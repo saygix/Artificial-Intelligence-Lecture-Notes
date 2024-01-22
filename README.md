@@ -1,17 +1,17 @@
 # Artificial Intelligence Lecture Notes
 Bu GitHub deposu, yapay zeka konusundaki ders notlarını içermekte ve öğrencilere yönelik örnek sorular içermektedir. Amacı, yapay zeka alanına ilgi duyan öğrencilere kaynak sağlamak ve derslerde öğrenilen konuları pekiştirmek için kullanılacak bir kaynak sunmaktır.
 ## Ders Notları
-#### Ders 1: Giriş ve Temel Kavramlar
+#### [Ders 1: Giriş ve Temel Kavramlar]()
 - Yapay zeka nedir?
 - Yapay Zeka'nın Temelleri
 - Zeki Sistemler
-#### Ders 2: Ajanlar
+#### [Ders 2: Ajanlar]()
 
 - Ajan nedir?
 - Ajanların Tasarımı
 - Ortam Türleri
 
-#### Ders 3: Arama Problemleri
+#### [Ders 3: Arama Problemleri]()
 
 - Problem Çözme ve Arama
 - Problem Çeşitleri
@@ -19,7 +19,7 @@ Bu GitHub deposu, yapay zeka konusundaki ders notlarını içermekte ve öğrenc
 - Bilgili Arama Yöntemleri
 - Sezgisel Optimizasyon
 
-#### Ders 4: Rekabet Ortamında Arama 
+#### [Ders 4: Rekabet Ortamında Arama]() 
 - MinMax Algoritması
 
 ## Örnek Sorular
