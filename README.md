@@ -17,13 +17,13 @@ Bu GitHub deposu, yapay zeka konusundaki ders notlarını içermekte ve öğrenc
 - Sezgisel Optimizasyon
 #### [Ders 4: Rekabet Ortamında Arama]() 
 - MinMax Algoritması
-#### [Ders 5:Sezgisel Optimizasyon]() 
+#### [Ders 5: Sezgisel Optimizasyon]() 
 - Karınca Kolonisi Optimizasyonu
 - Parçacık Sürü Optimizasyonu
 - Yapay Arı Kolonisi Optimizasyonu
 - Benzetim Tavlama
 - Genetik Algoritma
-#### [Ders 6:Genetik Algoritma]() 
+#### [Ders 6: Genetik Algoritma]() 
 - Genetik Algoritma Nedir?
 - Genetik Algoritma Adımları
 - Fitness Fonksiyonu
@@ -31,7 +31,7 @@ Bu GitHub deposu, yapay zeka konusundaki ders notlarını içermekte ve öğrenc
 - Seçim
 - Çaprazlama ve Mutasyon
 - Genetik Algoritma Parametreleri
-#### [Ders 7:Öğrenme ve Sınıflandırma]() 
+#### [Ders 7: Öğrenme ve Sınıflandırma]() 
 - Makine Öğrenmesi
 - Denetimli ve Denetimsiz Öğrenme
 - Kümeleme
