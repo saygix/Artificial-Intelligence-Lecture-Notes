@@ -63,7 +63,13 @@ Buna göre, seçeneklerdeki soruları yanıtlayınız:
 a) Oradea’dan Bükreş’e en kısa yolun bulunması problemini, açgözlü en-iyi önce arama algoritmasını kullanarak çözünüz. İki şehir arasındaki kuşbakışı uzaklığı sezgisel fonksiyon olarak alınız. Algoritmanız tarafından elde edilen çözüme nasıl ulaşıldığını arama ağacı üzerinde düğümleri adım adım işleterek gösteriniz. 
 
 b) Oradea’dan Bükreş’e en kısa yolun bulunması problemini, A* algoritması kullanarak çözünüz. Burada, her bir düğümde karşılık gelen f(n) fonksiyonu değerini belirterek, arama ağacı üzerinde düğümleri gösteriniz.
-## [Test Soruları](https://www.sanfoundry.com/artificial-intelligence-questions-answers-test/)
+## [Daha Fazlası İçin]()
 
 Eğer daha fazla test sorusu görmek istiyorsanız, [buraya tıklayarak test sorularının tamamını görebilirsiniz](https://www.sanfoundry.com/artificial-intelligence-questions-answers-test/).
+
+Eğer Parçacık Sürü Optimizasyonu projesine göz atmak için, [buraya tıklayarak projeyi inceleyebilirsiniz](https://github.com/saygix/Particle-Swarm-Optimization-PSO).
+
+Eğer Genetik Algoritma projesine göz atmak için, [buraya tıklayarak projeyi inceleyebilirsiniz](https://github.com/saygix/GENETIC-ALGORITHM-BASED-FEATURE-SELECTION-AND-RANDOM-FOREST-CLASSIFICATION-SYSTEM).
+
+
 
