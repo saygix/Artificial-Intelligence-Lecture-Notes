@@ -45,9 +45,15 @@ Bu GitHub deposu, yapay zeka konusundaki ders notlarını içermekte ve öğrenc
 #### [Ders 8: Bulanık Mantık]() 
 -  
 ## Örnek Sorular
-1. MaxMin Algoritması
-2. DFS ve BFS Algoritması
-3. A* Algoritması vb.
+Haritada Romanya’daki çeşitli şehirlerarasındaki yollar belirtilmektedir. Şehirlerarası uzaklıklar, karşılık gelen kenarlarda verilmektedir. Haritanın sağ tarafında verilen tabloda ise Bükreş’e diğer şehirlerden kuşbakışı uzaklıklar sunulmaktadır:
+
+![image](https://github.com/saygix/Artificial-Intelligence-Lecture-Notes/assets/139467552/315bb78b-2886-41ca-9e9f-ef4fcd153b55) 
+
+Buna göre, seçeneklerdeki soruları yanıtlayınız:
+
+a) Oradea’dan Bükreş’e en kısa yolun bulunması problemini, açgözlü en-iyi önce arama algoritmasını kullanarak çözünüz. İki şehir arasındaki kuşbakışı uzaklığı sezgisel fonksiyon olarak alınız. Algoritmanız tarafından elde edilen çözüme nasıl ulaşıldığını arama ağacı üzerinde düğümleri adım adım işleterek gösteriniz. 
+
+b) Oradea’dan Bükreş’e en kısa yolun bulunması problemini, A* algoritması kullanarak çözünüz. Burada, her bir düğümde karşılık gelen f(n) fonksiyonu değerini belirterek, arama ağacı üzerinde düğümleri gösteriniz.
 ## [Test Soruları](https://www.sanfoundry.com/artificial-intelligence-questions-answers-test/)
 
 Eğer daha fazla test sorusu görmek istiyorsanız, [buraya tıklayarak test sorularının tamamını görebilirsiniz](https://www.sanfoundry.com/artificial-intelligence-questions-answers-test/).
