@@ -1,5 +1,14 @@
 # Artificial Intelligence Lecture Notes
 Bu GitHub deposu, yapay zeka konusundaki ders notlarını içermekte ve öğrencilere yönelik örnek sorular içermektedir. Amacı, yapay zeka alanına ilgi duyan öğrencilere kaynak sağlamak ve derslerde öğrenilen konuları pekiştirmek için kullanılacak bir kaynak sunmaktır.
+## Yapay Zeka
+
+<p align="center">
+  <img src="https://github.com/saygix/Artificial-Intelligence-Lecture-Notes/assets/139467552/2ec260dd-d169-40fd-9f17-62b7023af655" alt="yapay-zeka-nedir">
+</p>
+
+Yapay zeka (AI), bilgisayar sistemlerine belirli görevleri gerçekleştirmek veya sorunları çözmek için insan benzeri zekâ ve öğrenme yetenekleri kazandırmayı amaçlayan bir bilim ve mühendislik alanıdır. Yapay zeka, bilgisayarların algılama, anlama, öğrenme, problem çözme ve karar verme gibi yeteneklere sahip olmalarını hedefler.
+
+
 ## Ders Notları
 #### [Ders 1: Giriş ve Temel Kavramlar]()
 - Yapay zeka nedir?
