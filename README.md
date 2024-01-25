@@ -65,7 +65,7 @@ a) Oradea’dan Bükreş’e en kısa yolun bulunması problemini, açgözlü en
 b) Oradea’dan Bükreş’e en kısa yolun bulunması problemini, A* algoritması kullanarak çözünüz. Burada, her bir düğümde karşılık gelen f(n) fonksiyonu değerini belirterek, arama ağacı üzerinde düğümleri gösteriniz.
 ## [Daha Fazlası İçin]()
 
-Eğer daha fazla test sorusu görmek istiyorsanız, [buraya tıklayarak test sorularının tamamını görebilirsiniz](https://www.sanfoundry.com/artificial-intelligence-questions-answers-test/).
+Eğer daha fazla test sorusu görmek istiyorsanız, [buraya tıklayarak benzer test sorularını görebilirsiniz](https://www.sanfoundry.com/artificial-intelligence-questions-answers-test/).
 
 Eğer Parçacık Sürü Optimizasyonu projesine göz atmak için, [buraya tıklayarak projeyi inceleyebilirsiniz](https://github.com/saygix/Particle-Swarm-Optimization-PSO).
 
