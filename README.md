@@ -52,7 +52,12 @@ Yapay zeka (AI), bilgisayar sistemlerine belirli görevleri gerçekleştirmek ve
 -  Bayes Sınıflandırıcı (Bayes Classifier)
 -  Yapay Sinir Ağları (Artificial Neural Networks)
 #### [Ders 8: Bulanık Mantık]() 
--  
+-  Bulanık Mantık
+-  Keskin Mantık
+-  Bulanık Mantık Mimarisi
+-  Üyelik Fonsiyonları
+-  Bulanık Çıkarım Yöntemleri
+-  Durulaştırma Yöntemleri
 ## Örnek Sorular
 Haritada Romanya’daki çeşitli şehirlerarasındaki yollar belirtilmektedir. Şehirlerarası uzaklıklar, karşılık gelen kenarlarda verilmektedir. Haritanın sağ tarafında verilen tabloda ise Bükreş’e diğer şehirlerden kuşbakışı uzaklıklar sunulmaktadır:
 
