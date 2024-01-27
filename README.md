@@ -26,6 +26,7 @@ Yapay zeka (AI), bilgisayar sistemlerine belirli görevleri gerçekleştirmek ve
 - Sezgisel Optimizasyon
 #### [Ders 4: Rekabet Ortamında Arama]() 
 - MinMax Algoritması
+- Alpha-Beta Budaması
 #### [Ders 5: Sezgisel Optimizasyon]() 
 - Karınca Kolonisi Optimizasyonu
 - Parçacık Sürü Optimizasyonu
@@ -71,6 +72,8 @@ b) Oradea’dan Bükreş’e en kısa yolun bulunması problemini, A* algoritmas
 ## [Daha Fazlası İçin]()
 
 Eğer daha fazla test sorusu görmek istiyorsanız, [buraya tıklayarak benzer test sorularını görebilirsiniz](https://www.sanfoundry.com/artificial-intelligence-questions-answers-test/).
+
+Alpha-Beta Budamasını daha iyi anlamak için, [buraya tıklayarak videoyu izleyebilirsiniz.](https://www.youtube.com/watch?v=eC5Ri8ySZFg&ab_channel=YavuzSS).
 
 Eğer Parçacık Sürü Optimizasyonu projesine göz atmak için, [buraya tıklayarak projeyi inceleyebilirsiniz](https://github.com/saygix/Particle-Swarm-Optimization-PSO).
 
